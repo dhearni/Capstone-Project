@@ -1,4 +1,4 @@
-The dataset to be used if from Kaggle:
+The dataset to be used is from Kaggle:
 
 https://www.kaggle.com/datasets/kaiska/apparel-dataset
 
